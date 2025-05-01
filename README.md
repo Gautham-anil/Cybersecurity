@@ -1,2 +1,27 @@
-# Cybersecurity
-A public collection of my cybersecurity learning journey, including tools, techniques, and safe notes from CEH prep and TryHackMe labs. Built to showcase my growth and passion for ethical hacking.
+Learning Topics
+
+- Footprinting & Reconnaissance
+- Scanning Networks (Nmap)
+- Enumeration
+- Web Application Attacks
+- Basics of Exploitation
+
+Resources I Use
+
+- TryHackMe Labs
+- YouTube (NetworkChuck, The Cyber Mentor)
+- CEH Official Curriculum
+
+
+Tools I Explore
+
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
+- Netcat
+
+
+> This is just a glimpse. My detailed notes are maintained in a private repo for confidentiality.
+
+
